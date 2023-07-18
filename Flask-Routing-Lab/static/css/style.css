@@ -1,1 +1,29 @@
+body {
+	background-color: #FFEBCD;
+/*	background-color: red;*/
+}
 
+#a1 {
+	font: Copperplate
+Papyrus
+;
+	font-size: 40px;
+	color: black;
+}
+
+#a2 {
+font: Copperplate
+Papyrus
+;
+	font-size: 40px;
+	color: black;
+
+}
+#img1 {
+	height: 100;
+	width: 70;
+}
+#img2 {
+	height: 100;
+	width: 70;
+}
